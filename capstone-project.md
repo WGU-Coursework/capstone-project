@@ -8,7 +8,7 @@
 
 1. **Speed and scale.** Current hardware can’t keep up with growing data from EHR logs, devices, and claims files.
 2. **Cost pressure.** Capex refresh is due; leadership prefers pay-as-you-go.
-3. **Compliance.** The org wants stronger controls and a clear HIPAA posture without building everything from scratch. (Microsoft documents Azure’s HIPAA program and BAA for in-scope services. ([Microsoft Learn][1]))
+3. **Compliance.** The org wants stronger controls and a clear HIPAA posture without building everything from scratch. (Microsoft documents Azure’s HIPAA program and BAA for in-scope services. ([Microsoft Learn][1])
 
 ## B. Proposed cloud solution and evaluation framework
 
